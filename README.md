@@ -1,5 +1,5 @@
 # BotInstagram
 Comentar Automáticamente
 
-# Instalar requeriments
+# Instalar requerements
 pip install -r requirements.txt
